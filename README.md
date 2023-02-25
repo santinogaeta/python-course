@@ -21,3 +21,30 @@ These files will contain information from each lesson completed below, as well a
 11) For Loops
 12) Nested Loops
 13) Break, continue, Pass
+14) Lists
+15) 2D Lists
+16) Tuples
+17) Sets
+18) Dictionaries
+19) Indexing
+20) Functions
+21) Return statements
+22) Keyword arguments
+23) Nested Function calls
+24) Variable scope
+25) *args
+26) *kwargs
+27) String format
+28) Random numbers
+29) Exception Handling
+30) File detection
+31) Read a file
+32) Write a file
+33) Copy a file
+34) Move a file
+35) Delete a file
+36) Modules
+37) Rock, Paper, Scissor Game (EXERCISE)
+38) Quiz Game (EXERCISE)
+39) Object Oriented Programming (OOP)
+40) Class variables
