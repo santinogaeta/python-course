@@ -16,4 +16,4 @@ print(last_name)  # pino
 
 # Can access indices in reverse by using negative index, will start on the right-side of the string
 last_char = name[-1]
-print(last_char)
+print(last_char)  # 'o'
