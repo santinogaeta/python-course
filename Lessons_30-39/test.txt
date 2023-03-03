@@ -1,0 +1,2 @@
+This is text that has been written from Lesson32 - how to write to files using python.
+This is text that is being appended from the same Lesson as above, to prove this is not overwritting what was written previously.
