@@ -16,7 +16,7 @@ try:
   # shutil.rmtree(<path to filled directory>) will rm directory with files in it, as os.rmdir() will cause OSError
   shutil.rmtree(dir_path) # considered dangerous since will delete all files within that directory too
 
-# have os.remove() within a try-catch in case target doesn't exist and can handle the error
+# have remove functions within a try-catch in case target doesn't exist or unable to delete, and can handle the error
 except FileNotFoundError as e:
   print(e)
   print("File already doesn't exist in path")
