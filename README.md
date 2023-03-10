@@ -48,3 +48,22 @@ These files will contain information from each lesson completed below, as well a
 38) Quiz Game (EXERCISE)
 39) Object Oriented Programming (OOP)
 40) Class variables
+41) Inheritance
+42) Multilevel Inheritance
+43) Multiple Inheritance
+44) Method Overriding
+45) Method Chaining
+46) Super Function
+47) Abstract Classes
+48) Objects as Arguments
+49) Duck Typing
+50) Walrus Operator
+51) Functions to Variables 
+52) Higher order Functions
+53) Lambda
+54) Sort
+55) Map
+56) Filter
+57) Reduce
+58) List Comprehensions
+59) Dictionary Comprehensions
